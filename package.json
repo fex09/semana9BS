@@ -1,0 +1,9 @@
+{
+  "name": "Semana9BS",
+  "version": "1.0.0",
+  "description": "practica webpack",
+  "main": "index.js",
+  "repository": "https://github.com/fex09/semana9BS.git",
+  "author": "Fenix <fsolisg@gmail.com>",
+  "license": "MIT"
+}
